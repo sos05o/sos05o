@@ -1,6 +1,14 @@
 ### Hi there 👋
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sos05o&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![My Skills](https://skillicons.dev/icons?i=astro,aws,babel,bash,bootstrap,bun,cs,cpp,css,cypress,dart,django,docker,dynamodb,elixir,firebase,flask,flutter,gatsby)](https://skillicons.dev,gcp,git,go,gradle,graphql,heroku,html,java,js,jest,jquery,laravel,linux,md,materialui,maven,mysql,nextjs,nginx,nodejs,npm,obsidian,php,phpstorm,pnpm,postgres,postman,powershell,prisma,py,react,redux,sass,spring,selenium,svg,tailwind,terraform,ts,ubuntu,vercel,visualstudio,vite,vscode,wasm,webpack,windows,xd,yarn)
+
+
+[![My Skills](https://skillicons.dev/icons?i=clion,eclipse,idea,pycharm,webstorm)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=codepen,discord,figma,gmail,github,stackoverflow,supabase,twitter)](https://skillicons.dev)
+
 <!--
 **sos05o/sos05o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
